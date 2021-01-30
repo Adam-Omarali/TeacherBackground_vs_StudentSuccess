@@ -1,0 +1,36 @@
+gdppcap:
+GDP per capita
+Each country has a linear regression model
+
+sesvsuc:
+Socio-economic status vs success
+Bar graph plotting a custom indicator vs socio-economic status and reading and math scores
+
+twvsuc:
+Teacher wealth vs success
+Contains a correlation matrix with a few custom variables (among which are salary for teachers and graduates)
+Contains a YoY% change graph with custom variables and custom year range
+
+twvpisavgrad:
+Teacher wealth vs pisa scores vs grad
+Cleaned data for custom countries:
+Year vs population, 10th percentile pisa score, 90th percentile pisa score
+Year vs graduation rate
+Year vs salary
+Pivot tables for custom countries:
+Gender and subject vs graduation rate
+2 indicators among Country, ISCED, Age, Sex vs teacher salary
+Cleaned plots for for custom countries
+Shows cleaned (mean-centered and divided by std) data for 10th percentile pisa score, 90th percentile pisa score, graduation rate, and salary
+Years are inconsistent
+Some countries have missing data
+YoY% change graph for custom countries
+Some values are huge
+Years are inconsistent
+Some countries have missing data
+
+teacher_exp:
+Teacher highest degree, years of experience
+Student SES, parents highest degree
+Success: Dropout Rates, Student grades
+All data from the US, 1994 - 2018
